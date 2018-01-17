@@ -1,7 +1,14 @@
-this is the  first test
+﻿this is the  first test
+<<<<<<< HEAD
 
 
 test1
 
 
 test2
+=======
+>>>>>>> parent of fd4790a... 添加test1
+
+
+
+测试11111111111111111111111111111111
