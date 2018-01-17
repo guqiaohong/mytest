@@ -1,2 +1,14 @@
-this is the  first test
-this is develop ·ÖÖ§ĞŞ¸Ä
+ï»¿this is the  first test
+<<<<<<< HEAD
+
+
+test1
+
+
+test2
+=======
+>>>>>>> parent of fd4790a... æ·»åŠ test1
+
+
+
+æµ‹è¯•11111111111111111111111111111111
